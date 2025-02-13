@@ -1,0 +1,28 @@
+body{
+    background-image: url(love1.jpg);
+    background-size: cover;
+}
+.image-container {
+    background-color: rgba(255, 0, 0, 0.5);  
+    padding: 20px;                          
+    display: inline-block;                  
+    border-radius: 10px;                    
+}
+
+
+img {
+    width: 300px;              
+    height: auto;            
+    box-shadow: 5px 5px 15px pink;  
+}
+.name {
+    width: 250px;
+}
+.btn{
+    border: none;
+    background-color: transparent;
+    margin-top: 385px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+
